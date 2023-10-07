@@ -1,0 +1,32 @@
+#p1{
+    color:blue;
+    font-family: "Gill Sans MT", serif;
+    font-weight: bold;
+    font-size: 12pt ;
+}
+#p2{
+    color:red;
+    font-family: Arial, serif;
+    font-weight:bolder;
+    font-size:14pt;
+}
+#p3{
+    color:lightcoral;
+    background-color: grey;
+    font-family: "Bodoni MT", serif;
+font-weight: lighter;
+    font-size:20pt;
+}
+#p4{
+    color:mediumaquamarine;
+    background-color: darkmagenta;
+    font-family: "Yu Gothic UI",serif;
+    font-weight: revert;
+    font-size:14pt;
+}
+#p5{
+    color:magenta;
+    font-family: "Gill Sans MT", serif;
+    font-weight:bolder;
+    font-size:9pt;
+}
